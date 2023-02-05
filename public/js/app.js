@@ -103,7 +103,7 @@ awaitStart.volume = 0.6;
         clearInterval(timer);
         clearTimeout(launch);
         restart.style.visibility='visible';
-        restart.innerHTML = 'Schwachkopf!'
+        restart.innerHTML = 'okay, sorry...'
       })
       
       restart.addEventListener('click', () => {
